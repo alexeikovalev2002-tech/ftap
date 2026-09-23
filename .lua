@@ -438,4 +438,4 @@ ClB.MouseButton1Click:Connect(function()
   M:Destroy() FB:Destroy()
 end)
 
-print("[true am am] Скрипт загружен.")
+print("[true am am] Скрипт загружен."
